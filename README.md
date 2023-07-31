@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/hugo-fang">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=hugo-fang&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=hugo-fang&title=MultiLanguage,Commits,Stars,Followers,Repositories" />
 	</a>
 </p>
 <p align="center">
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hugo-fang&theme=dracula&langs_count=8&layout=compact&card_width=260&hide=html,scss,makefile,css,less" alt="My Github" />
 	</a>
 	<a href="https://github.com/hugo-fang">
-		<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hugo-fang&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dracula" alt="hugo-fang's Github Stats" />
+		<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hugo-fang&theme=dracula" alt="hugo-fang's Github Stats" />
 	</a>
 </p>
