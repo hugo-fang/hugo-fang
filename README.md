@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## My GitHub Stats 📊
 <p align="center">
 	<a href="https://github.com/hugo-fang">
-		<img align="center" src="https://github-profile-trophy.vercel.app/?username=hugo.fang&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
+		<img align="center" src="https://github-profile-trophy.vercel.app/?username=hugo-fang&title=MultiLanguage,Commits,Stars,Followers,Organizations,Repositories" />
 	</a>
 </p>
 <p align="center">
